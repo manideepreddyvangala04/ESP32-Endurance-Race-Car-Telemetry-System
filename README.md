@@ -1,4 +1,4 @@
-# RACEPULSE Telemetry System
+#  RACEPULSE Telemetry System
 
 A low-cost, Wi-Fi enabled endurance race car telemetry system built with an ESP32 and an ADXL345 accelerometer. It tracks real-time driving data, lap times, and G-forces, sending everything directly to a Google Sheet.
 
